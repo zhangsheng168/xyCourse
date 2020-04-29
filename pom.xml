@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>eurake</module>
+        <module>system</module>
     </modules>
 
 
